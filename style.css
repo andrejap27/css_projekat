@@ -1,5 +1,4 @@
 
-
 body,html {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -251,16 +250,15 @@ iframe{
 
 
 .contact-form {
-  margin:auto;
-  margin-top: 80px;
-  margin-left: 530px;
+  display: block;
+  margin:80px auto;
   border: 1px solid	#051317;
   background-color: rgb(33, 85, 87,0.6);	
   opacity: 1.5;
   padding: 30px;
   border-radius: 8px;
   width: 500px;
-  position: absolute;
+ 
 }
 
 
@@ -404,8 +402,7 @@ footer {
 }
 .contact-form {
   margin-top: 30px;
-  margin-left: 20px;
-  width: 220px;
+  width: 70%;
   }
 
  .contact-icons {
@@ -434,6 +431,9 @@ footer {
 @media screen and (min-width:768px) and (max-width:1024px)
 
 {
+.background-image{
+  padding: 30px 0px;
+}
 
   .background-image .text h2 {
     top: 10%;
@@ -471,12 +471,10 @@ footer {
     width: 35%;  
 }
 
-  .contact-form{
-   margin-left: 100px;
-    margin-top: 100px;
-}
+ 
 
 }
+  
   
 
   
