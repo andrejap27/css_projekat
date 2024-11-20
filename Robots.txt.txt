@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-https://github.com/andrejap27/css_projekat/blob/main/sitemap.xml
+sitemap: https://github.com/andrejap27/css_projekat/blob/main/sitemap.xml
