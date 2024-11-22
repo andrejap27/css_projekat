@@ -345,13 +345,13 @@ iframe{
 
   .background-image .text h2 {
     font-size: 30px;
-    top: 30%;
+    top: 20%;
     left: 5%;
   }
 
   .background-image .text h3 {
     font-size: 30px;
-    top: 37%;
+    top: 32%;
     left: 10%;
   }
 
@@ -363,8 +363,8 @@ iframe{
 
   .box {
     width: 60%;
-    top: 300px;
-    right: 10px;
+    top: 350px;
+    right: 30px;
   }
 
   footer {
