@@ -330,8 +330,8 @@ iframe{
   }
 
   .content {
-    margin-left: 50%;
-    font-size: 15px; 
+    margin-left: 0%; 
+    font-size: 15px;
   }
 
   nav ul {
@@ -340,7 +340,7 @@ iframe{
 
   ul li a {
     padding: 0px;
-    font-size: 18px; 
+    font-size: 18px;
   }
 
   .background-image .text h2 {
@@ -358,13 +358,15 @@ iframe{
   .background-image .content-for-home p {
     right: 0%;
     top: 100%;
-    font-size: 13px; 
+    font-size: 13px;
   }
 
   .box {
-    width: 80%; 
-    top: 250px;
-    right: 10px;
+    width: 100%; 
+    top: auto; 
+    margin: 20px 0;
+    padding: 10px; 
+    box-sizing: border-box; 
   }
 
   footer {
@@ -396,12 +398,12 @@ iframe{
   }
 
   .background-image {
-    height: 130vh; 
+    height: 130vh;
   }
 
   .contact-form {
     margin-top: 20px;
-    width: 90%; 
+    width: 90%;
   }
 
   .contact-icons {
