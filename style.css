@@ -330,8 +330,8 @@ iframe{
   }
 
   .content {
-    margin-left: 0%; 
-    font-size: 15px;
+    margin-left: 50%;
+    font-size: 15px; 
   }
 
   nav ul {
@@ -340,7 +340,7 @@ iframe{
 
   ul li a {
     padding: 0px;
-    font-size: 18px;
+    font-size: 18px; 
   }
 
   .background-image .text h2 {
@@ -358,15 +358,13 @@ iframe{
   .background-image .content-for-home p {
     right: 0%;
     top: 100%;
-    font-size: 13px;
+    font-size: 13px; 
   }
 
   .box {
-    width: 100%; 
-    top: auto; 
-    margin: 20px 0;
-    padding: 10px; 
-    box-sizing: border-box; 
+    width: 60%;
+    top: 300px;
+    right: 10px;
   }
 
   footer {
@@ -374,7 +372,7 @@ iframe{
   }
 
   .header-image img {
-    height: 200px;
+    height: 200px; 
   }
 
   .header-image h2 {
@@ -393,12 +391,12 @@ iframe{
   }
 
   .card {
-    width: 100%;
+    width: 100%; 
     margin: 20px 0;
   }
 
   .background-image {
-    height: 130vh;
+    height: 130vh; 
   }
 
   .contact-form {
@@ -453,7 +451,7 @@ iframe{
   }
 
   .header-image img {
-    height: 65vh;
+    height: 65vh; 
   }
 
   .header-image h2 {
@@ -469,7 +467,7 @@ iframe{
   }
 
   .card {
-    width: 45%; 
+    width: 45%;
   }
 }
   
